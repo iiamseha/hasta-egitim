@@ -22,7 +22,7 @@ Kullanıcılar:
 
 ```bash
 npm install
-npx expo start
+npx expo start```
 
 ## Demo Video
 Uygulamanın çalışır hali aşağıdaki videoda gösterilmiştir.
