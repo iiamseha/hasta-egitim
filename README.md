@@ -45,3 +45,20 @@ okunabilirliği artırmak ve içerikleri sesli dinleyebilmesi hedeflenmiştir.
 npm install
 npx expo start
 
+---
+
+## 🎥 Demo Video
+
+Uygulamanın çalışır hali aşağıdaki videoda gösterilmiştir.
+
+YouTube Linki:
+https://youtube.com/VIDEO_LINKIN
+
+---
+
+## 📱 APK İndirme
+
+Android APK dosyasına aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+https://github.com/KULLANICIADI/hasta-egitim/releases
+
