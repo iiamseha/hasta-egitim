@@ -53,7 +53,7 @@ npx expo start
 Uygulamanın çalışır hali aşağıdaki videoda gösterilmiştir.
 
 YouTube Linki:
-https://youtube.com/VIDEO_LINKIN
+https://youtube.com/shorts/UTVK3TMMIvw?si=NrAchJrhR4mQKRoV
 
 ---
 
@@ -61,5 +61,5 @@ https://youtube.com/VIDEO_LINKIN
 
 Android APK dosyasına aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-https://github.com/KULLANICIADI/hasta-egitim/releases
+https://github.com/iiamseha/hasta-egitim/releases
 
