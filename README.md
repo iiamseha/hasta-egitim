@@ -44,6 +44,7 @@ okunabilirliği artırmak ve içerikleri sesli dinleyebilmesi hedeflenmiştir.
 ```bash
 npm install
 npx expo start
+```
 
 ---
 
