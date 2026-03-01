@@ -23,3 +23,14 @@ Kullanıcılar:
 ```bash
 npm install
 npx expo start
+
+## Demo Video
+Uygulamanın çalışır hali aşağıdaki videoda gösterilmiştir.
+
+YouTube Linki:
+https://youtube.com/VIDEO_LINKIN
+
+## APK İndirme
+Android APK dosyası:
+
+https://github.com/KULLANICIADI/hasta-egitim/releases
